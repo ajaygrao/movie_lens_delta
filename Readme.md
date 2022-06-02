@@ -26,5 +26,5 @@ The program takes 2 mandatory arguments in this order:
 * Path to the directory where all input csv are stored
 * Path where the delta table needs to be stored
 
-Note: input files are read based on names prefix from given directory
-So please store them as movies*.csv, ratings*.csv and tags*.csv respectively
+Note: input files are read based on names from given directory
+So please store them as movies.csv, ratings.csv and tags.csv respectively
